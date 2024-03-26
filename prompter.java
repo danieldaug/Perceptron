@@ -6,7 +6,7 @@
 import java.util.Scanner;
 import java.io.*;
 
- class proj1{
+ class prompter{
 
     public static void main(String[] args){
         neuralNet perceptron = new neuralNet(0,0,0);
