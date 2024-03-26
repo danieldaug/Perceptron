@@ -1,0 +1,147 @@
+Answer Vector:
+1 -1 -1 -1 -1 -1 -1
+Expected Vector:
+1 -1 -1 -1 -1 -1 -1
+Letter being used: A1
+Character recognized
+
+Answer Vector:
+-1 1 -1 -1 -1 -1 -1
+Expected Vector:
+-1 1 -1 -1 -1 -1 -1
+Letter being used: B1
+Character recognized
+
+Answer Vector:
+-1 -1 1 -1 -1 -1 -1
+Expected Vector:
+-1 -1 1 -1 -1 -1 -1
+Letter being used: C1
+Character recognized
+
+Answer Vector:
+-1 -1 -1 -1 -1 -1 -1
+Expected Vector:
+-1 -1 -1 1 -1 -1 -1
+Letter being used: D1
+Undecided answer
+
+Answer Vector:
+-1 -1 -1 -1 1 -1 -1
+Expected Vector:
+-1 -1 -1 -1 1 -1 -1
+Letter being used: E1
+Character recognized
+
+Answer Vector:
+-1 -1 -1 -1 -1 -1 -1
+Expected Vector:
+-1 -1 -1 -1 -1 1 -1
+Letter being used: J1
+Undecided answer
+
+Answer Vector:
+-1 -1 -1 -1 -1 -1 1
+Expected Vector:
+-1 -1 -1 -1 -1 -1 1
+Letter being used: K1
+Character recognized
+
+Answer Vector:
+1 -1 -1 -1 -1 -1 -1
+Expected Vector:
+1 -1 -1 -1 -1 -1 -1
+Letter being used: A2
+Character recognized
+
+Answer Vector:
+-1 1 1 -1 -1 -1 -1
+Expected Vector:
+-1 1 1 -1 -1 -1 -1
+Letter being used: B2
+Undecided answer
+
+Answer Vector:
+-1 -1 -1 -1 -1 -1 -1
+Expected Vector:
+-1 -1 1 -1 -1 -1 -1
+Letter being used: C2
+Undecided answer
+
+Answer Vector:
+-1 -1 -1 1 -1 -1 -1
+Expected Vector:
+-1 -1 -1 1 -1 -1 -1
+Letter being used: D2
+Character recognized
+
+Answer Vector:
+-1 -1 -1 -1 -1 -1 -1
+Expected Vector:
+-1 -1 -1 -1 1 -1 -1
+Letter being used: E2
+Undecided answer
+
+Answer Vector:
+-1 -1 -1 -1 -1 -1 -1
+Expected Vector:
+-1 -1 -1 -1 -1 1 -1
+Letter being used: J2
+Undecided answer
+
+Answer Vector:
+-1 -1 -1 -1 -1 -1 -1
+Expected Vector:
+-1 -1 -1 -1 -1 -1 1
+Letter being used: K2
+Undecided answer
+
+Answer Vector:
+1 -1 -1 -1 -1 -1 -1
+Expected Vector:
+1 -1 -1 -1 -1 -1 -1
+Letter being used: A3
+Character recognized
+
+Answer Vector:
+-1 1 -1 -1 -1 -1 -1
+Expected Vector:
+-1 1 -1 -1 -1 -1 -1
+Letter being used: B3
+Character recognized
+
+Answer Vector:
+-1 -1 1 -1 -1 -1 -1
+Expected Vector:
+-1 -1 1 -1 -1 -1 -1
+Letter being used: C3
+Character recognized
+
+Answer Vector:
+-1 -1 -1 -1 -1 -1 -1
+Expected Vector:
+-1 -1 -1 1 -1 -1 -1
+Letter being used: D3
+Undecided answer
+
+Answer Vector:
+-1 -1 -1 -1 1 -1 -1
+Expected Vector:
+-1 -1 -1 -1 1 -1 -1
+Letter being used: E3
+Character recognized
+
+Answer Vector:
+-1 -1 -1 -1 -1 -1 -1
+Expected Vector:
+-1 -1 -1 -1 -1 1 -1
+Letter being used: J3
+Undecided answer
+
+Answer Vector:
+-1 -1 -1 -1 -1 -1 -1
+Expected Vector:
+-1 -1 -1 -1 -1 -1 1
+Letter being used: K3
+Undecided answer
+
