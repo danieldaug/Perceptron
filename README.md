@@ -14,3 +14,4 @@ a high level of noise, meaning many 'pixels' of the letter that it is supposed t
 fixedTestSample.txt: other example input file with random inputs specified in the file
 trainingsamples.txt: the example input file that we used with the specific letter matrices that we would like our perceptron to classify through weight training<br>
 out.txt: example of the output file produced when running the perceptron through testing with an input file
+smalltraining.txt: example input file for training weights, showing that perceptron can be initialized to take different dimensions of inputs
