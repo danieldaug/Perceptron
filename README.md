@@ -10,5 +10,6 @@ perceptron with multiple inputs outputs<br>
 prompter class: deals with user interface and performing certain operations based on the user's choice<br>
 testsample.txt files: example input file for a perceptron with previously trained weights to test whether it recognized certain inputs. HNI being
 a high level of noise, meaning many 'pixels' of the letter that it is supposed to represent are flipped. MNI being medium and LNI being low.<br>
+fixedTestSample.txt: other example input file with random inputs specified in the file
 trainingsamples.txt: the example input file that we used with the specific letter matrices that we would like our perceptron to classify through weight training<br>
 out.txt: example of the output file produced when running the perceptron through testing with an input file
